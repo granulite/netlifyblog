@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Granulite's blog]]></title>
+  <link href="granulite.github.io/atom.xml" rel="self"/>
+  <link href="granulite.github.io/"/>
+  <updated>2019-10-04T21:25:42+08:00</updated>
+  <id>granulite.github.io/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[产品经理的岗位职责]]></title>
+    <link href="granulite.github.io/15701953123013.html"/>
+    <updated>2019-10-04T21:21:52+08:00</updated>
+    <id>granulite.github.io/15701953123013.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[从商业模式到产品交付--谈产品经理的职能]]></title>
+    <link href="granulite.github.io/15701951903731.html"/>
+    <updated>2019-10-04T21:19:50+08:00</updated>
+    <id>granulite.github.io/15701951903731.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[产品经理怎么画业务架构图]]></title>
+    <link href="granulite.github.io/product-architecture.html"/>
+    <updated>2019-10-04T21:17:31+08:00</updated>
+    <id>granulite.github.io/product-architecture.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[产品经理常见图形表达]]></title>
+    <link href="granulite.github.io/common-figure-for-product.html"/>
+    <updated>2019-10-04T21:17:15+08:00</updated>
+    <id>granulite.github.io/common-figure-for-product.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[关于未来, 我的思考]]></title>
+    <link href="granulite.github.io/15691639178608.html"/>
+    <updated>2019-09-22T22:51:57+08:00</updated>
+    <id>granulite.github.io/15691639178608.html</id>
+    <content type="html"><![CDATA[
+<p>标题改了好几轮: 1. 产品经理的未来出路是什么, 2. 作为产品经理, 我的出路是什么,  3. 我的出路是什么</p>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[述职的思考]]></title>
+    <link href="granulite.github.io/thinking-on-work-report.html"/>
+    <updated>2019-06-01T14:19:42+08:00</updated>
+    <id>granulite.github.io/thinking-on-work-report.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/15593699823265/15593848970443.jpg" alt=""/></p>
+
+<ol>
+<li>晋升考核的是什么: 首先要的是</li>
+<li>关于工作的难点</li>
+<li>我的用户是谁</li>
+<li>我的职责是什么</li>
+</ol>
+
+<p>写于2019-06-01<br/>
+图片链接: <a href="https://unsplash.com/photos/ojVMh1QTVGY">https://unsplash.com/photos/ojVMh1QTVGY</a></p>
+
+]]></content>
+  </entry>
+  
+</feed>
