@@ -4,7 +4,7 @@
   <title><![CDATA[Granulite's blog]]></title>
   <link href="granulite.github.io/atom.xml" rel="self"/>
   <link href="granulite.github.io/"/>
-  <updated>2019-10-04T23:14:29+08:00</updated>
+  <updated>2019-10-05T08:06:46+08:00</updated>
   <id>granulite.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,10 +13,10 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[数码产品2019版]]></title>
-    <link href="granulite.github.io/3C-products-2019.html"/>
-    <updated>2019-10-04T23:23:13+08:00</updated>
-    <id>granulite.github.io/3C-products-2019.html</id>
+    <title type="html"><![CDATA[欢迎大家来到我的站点]]></title>
+    <link href="granulite.github.io/15702448232077.html"/>
+    <updated>2019-10-05T11:07:03+08:00</updated>
+    <id>granulite.github.io/15702448232077.html</id>
     <content type="html"><![CDATA[
 
 ]]></content>
@@ -24,50 +24,26 @@
   
   <entry>
     <title type="html"><![CDATA[建站日记]]></title>
-    <link href="granulite.github.io/15702025643997.html"/>
+    <link href="granulite.github.io/site-build-log.html"/>
     <updated>2019-10-04T23:22:44+08:00</updated>
-    <id>granulite.github.io/15702025643997.html</id>
+    <id>granulite.github.io/site-build-log.html</id>
     <content type="html"><![CDATA[
+<p><img src="media/15702025643997/15702410997549.jpg" alt=""/></p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[产品经理的岗位职责]]></title>
-    <link href="granulite.github.io/15701953123013.html"/>
-    <updated>2019-10-04T21:21:52+08:00</updated>
-    <id>granulite.github.io/15701953123013.html</id>
-    <content type="html"><![CDATA[
+<h2 id="toc_0">1. 生成静态页面</h2>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[从商业模式到产品交付--谈产品经理的职能]]></title>
-    <link href="granulite.github.io/15701951903731.html"/>
-    <updated>2019-10-04T21:19:50+08:00</updated>
-    <id>granulite.github.io/15701951903731.html</id>
-    <content type="html"><![CDATA[
+<p>此步比较简单, 见 <a href="https://zh.mweb.im/mweb-static-blog.html">mweb相关说明</a><br/>
+此外, HEXO, HUGO等也是常见的生成静态博客站点的工具</p>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[产品经理怎么画业务架构图]]></title>
-    <link href="granulite.github.io/product-architecture.html"/>
-    <updated>2019-10-04T21:17:31+08:00</updated>
-    <id>granulite.github.io/product-architecture.html</id>
-    <content type="html"><![CDATA[
+<h2 id="toc_1">2. 将静态站点推送到Github</h2>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[产品经理常见图形表达]]></title>
-    <link href="granulite.github.io/common-figure-for-product.html"/>
-    <updated>2019-10-04T21:17:15+08:00</updated>
-    <id>granulite.github.io/common-figure-for-product.html</id>
-    <content type="html"><![CDATA[
+<p>前置流程</p>
+
+<ol>
+<li>申请github账号</li>
+<li>新建Repo</li>
+<li></li>
+</ol>
 
 ]]></content>
   </entry>
@@ -106,7 +82,7 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[数码产品-2016版]]></title>
+    <title type="html"><![CDATA[数码工具-2016版]]></title>
     <link href="granulite.github.io/3C-products-2016.html"/>
     <updated>2019-10-04T23:15:53+08:00</updated>
     <id>granulite.github.io/3C-products-2016.html</id>
