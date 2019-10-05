@@ -4,7 +4,7 @@
   <title><![CDATA[Granulite's blog]]></title>
   <link href="granulite.github.io/atom.xml" rel="self"/>
   <link href="granulite.github.io/"/>
-  <updated>2019-10-05T17:08:30+08:00</updated>
+  <updated>2019-10-05T23:11:16+08:00</updated>
   <id>granulite.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -22,7 +22,7 @@
 
 <h2 id="toc_0">1. 一个可以生成静态页面的工具</h2>
 
-<p>此步比较简单, 见 <a href="https://zh.mweb.im/mweb-static-blog.html">mweb相关说明</a><br/>
+<p>本文用Mweb编辑器作为生成站点工具 <a href="https://zh.mweb.im/mweb-static-blog.html">mweb相关说明</a>. <br/>
 HEXO, HUGO等也是常见的生成静态博客站点的工具</p>
 
 <h2 id="toc_1">2. 将静态站点推送到Github</h2>
@@ -36,15 +36,37 @@ HEXO, HUGO等也是常见的生成静态博客站点的工具</p>
 
 <p>关键流程</p>
 
+<pre><code class="language-text"># 1. 初始化文件夹, 文件夹需为空白
+git init
+
+# 2. 添加远程repo到本地
+git remote add origin https://github.com/#your_github_name/#your_github_repo.git
+
+# 3. 将静态页面文件生成到本文件夹
+# 通过Mweb/HUGO等工具生成, 本地查看效果OK之后进入下一步
+
+# 4. 将文件夹变更添加到本次提交
+git add -A 
+git commit -m &quot;note for this commit&quot;
+git push -u origin master
+</code></pre>
+
+<h2 id="toc_2">3. 配置Netlify</h2>
+
 <ol>
-<li>初始化本地静态文件文件夹(文件保留空白)</li>
+<li>注册登录 <a href="https://app.netlify.com/start">Netlify</a></li>
+<li>选择「New site from Git」, 选择Github</li>
+<li>授权Github, 选择之前的repo和对应的分支</li>
+<li><p>点击「Deploy Site」进行部署</p></li>
 </ol>
 
-<p><code>git remote add origin https://github.com/granulite/netlifyblog.git</code></p>
+<ul>
+<li>Netlify到这里已部署完成了. Netlify会为你自动分配一个xxxxxxx.netlify.com的域名. 可以访问进行以查看效果</li>
+<li>同时后续站点变更推送到Github后, Netlify就能进行自动更新<br/>
+如果需要一个属于自己的专属域名, 需要进入下一步, 购买域名, 设置DNS解析和指向</li>
+</ul>
 
-<ol>
-<li></li>
-</ol>
+<h2 id="toc_3">4. 购置域名, 配置DNS解析</h2>
 
 ]]></content>
   </entry>
