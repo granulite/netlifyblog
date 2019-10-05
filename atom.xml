@@ -4,23 +4,13 @@
   <title><![CDATA[Granulite's blog]]></title>
   <link href="granulite.github.io/atom.xml" rel="self"/>
   <link href="granulite.github.io/"/>
-  <updated>2019-10-05T08:06:46+08:00</updated>
+  <updated>2019-10-05T17:08:30+08:00</updated>
   <id>granulite.github.io/</id>
   <author>
     <name><![CDATA[]]></name>
     
   </author>
   <generator uri="http://www.mweb.im/">MWeb</generator>
-  
-  <entry>
-    <title type="html"><![CDATA[欢迎大家来到我的站点]]></title>
-    <link href="granulite.github.io/15702448232077.html"/>
-    <updated>2019-10-05T11:07:03+08:00</updated>
-    <id>granulite.github.io/15702448232077.html</id>
-    <content type="html"><![CDATA[
-
-]]></content>
-  </entry>
   
   <entry>
     <title type="html"><![CDATA[建站日记]]></title>
@@ -30,10 +20,10 @@
     <content type="html"><![CDATA[
 <p><img src="media/15702025643997/15702410997549.jpg" alt=""/></p>
 
-<h2 id="toc_0">1. 生成静态页面</h2>
+<h2 id="toc_0">1. 一个可以生成静态页面的工具</h2>
 
 <p>此步比较简单, 见 <a href="https://zh.mweb.im/mweb-static-blog.html">mweb相关说明</a><br/>
-此外, HEXO, HUGO等也是常见的生成静态博客站点的工具</p>
+HEXO, HUGO等也是常见的生成静态博客站点的工具</p>
 
 <h2 id="toc_1">2. 将静态站点推送到Github</h2>
 
@@ -42,6 +32,17 @@
 <ol>
 <li>申请github账号</li>
 <li>新建Repo</li>
+</ol>
+
+<p>关键流程</p>
+
+<ol>
+<li>初始化本地静态文件文件夹(文件保留空白)</li>
+</ol>
+
+<p><code>git remote add origin https://github.com/granulite/netlifyblog.git</code></p>
+
+<ol>
 <li></li>
 </ol>
 
@@ -65,18 +66,12 @@
     <updated>2019-06-01T14:19:42+08:00</updated>
     <id>granulite.github.io/thinking-on-work-report.html</id>
     <content type="html"><![CDATA[
-<p><img src="media/15593699823265/15593848970443.jpg" alt=""/></p>
-
 <ol>
 <li>晋升考核的是什么: 首先要的是</li>
 <li>关于工作的难点</li>
 <li>我的用户是谁</li>
 <li>我的职责是什么</li>
 </ol>
-
-<blockquote>
-<p>图片链接: <a href="https://unsplash.com/photos/ojVMh1QTVGY">https://unsplash.com/photos/ojVMh1QTVGY</a></p>
-</blockquote>
 
 ]]></content>
   </entry>
