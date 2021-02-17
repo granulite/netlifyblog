@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[YangXiaoqiang's blog]]></title>
+  <link href="yxq.wiki/atom.xml" rel="self"/>
+  <link href="yxq.wiki/"/>
+  <updated>2021-02-17T08:52:54+08:00</updated>
+  <id>yxq.wiki/</id>
+  <author>
+    <name><![CDATA[]]></name>
+    
+  </author>
+  <generator uri="http://www.mweb.im/">MWeb</generator>
+  
+  <entry>
+    <title type="html"><![CDATA[测试一下]]></title>
+    <link href="yxq.wiki/16126859067281.html"/>
+    <updated>2021-02-07T16:18:26+08:00</updated>
+    <id>yxq.wiki/16126859067281.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="yxq.wiki/16126730149314.html"/>
+    <updated>2021-02-07T12:43:34+08:00</updated>
+    <id>yxq.wiki/16126730149314.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[用什么软件]]></title>
+    <link href="yxq.wiki/16126027192062.html"/>
+    <updated>2021-02-06T17:11:59+08:00</updated>
+    <id>yxq.wiki/16126027192062.html</id>
+    <content type="html"><![CDATA[
+<p><img src="media/16126027192062/IMG_6828.png" alt="IMG_6828"/></p>
+
+]]></content>
+  </entry>
+  
+</feed>
