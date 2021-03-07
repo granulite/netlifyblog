@@ -4,7 +4,7 @@
   <title><![CDATA[YangXiaoqiang's blog]]></title>
   <link href="yxq.wiki/atom.xml" rel="self"/>
   <link href="yxq.wiki/"/>
-  <updated>2021-02-17T08:52:54+08:00</updated>
+  <updated>2021-03-07T09:52:27+08:00</updated>
   <id>yxq.wiki/</id>
   <author>
     <name><![CDATA[]]></name>
@@ -13,11 +13,22 @@
   <generator uri="http://www.mweb.im/">MWeb</generator>
   
   <entry>
-    <title type="html"><![CDATA[测试一下]]></title>
+    <title type="html"><![CDATA[]]></title>
+    <link href="yxq.wiki/16150815419214.html"/>
+    <updated>2021-03-07T09:45:41+08:00</updated>
+    <id>yxq.wiki/16150815419214.html</id>
+    <content type="html"><![CDATA[
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[博客工作流]]></title>
     <link href="yxq.wiki/16126859067281.html"/>
     <updated>2021-02-07T16:18:26+08:00</updated>
     <id>yxq.wiki/16126859067281.html</id>
     <content type="html"><![CDATA[
+<h2 id="toc_0">使用mweb快速建立博客</h2>
 
 ]]></content>
   </entry>
